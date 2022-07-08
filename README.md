@@ -1,4 +1,4 @@
-Hi there 👋
+##Hi there 👋
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning everything that comes to mind in tech.
 - 💬 Ask me about technology and news.
