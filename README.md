@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Istaranjan</h1>
 <h3 align="center">A passionate coder and tech enthusiast from India</h3>
 
-- I’m currently working on [certifications](from Salesforce)
+- I’m currently working on certifications from Salesforce
 
 - I’m currently learning **about Apex**
 
-- I’m looking to collaborate on [open source](AI projects)
+- I’m looking to collaborate on open source AI projects
 
 - All of my projects are available at [https://istaranjan.netlify.app/](https://istaranjan.netlify.app/)
 
