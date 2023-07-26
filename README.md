@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Istaranjan</h1>
 <h3 align="center">A passionate coder and tech enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istaranjandas" alt="istaranjandas" /></a> </p>
-
 - I’m currently working on [certifications](from Salesforce)
 
 - I’m currently learning **about Apex**
